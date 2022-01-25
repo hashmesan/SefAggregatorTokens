@@ -1,0 +1,13 @@
+[{
+    "symbol": "ONE",
+    "name": "Harmony One",
+    "address": "0x7466d7d0c21fa05f32f5a0fa27e12bdc06348ce2",
+    "logoURI": "https://openfi.dev/tokens/default/ONE.png",
+    "decimals": 18
+  },{
+    "symbol": "OpenX",
+    "name": "OpenSwap",
+    "address": "0x9580254b12A7289e4b86c30F6a254Be81fD5B8Df",
+    "decimals": 18,
+    "logoURI": "https://openfi.dev/tokens/default/oSWAP.png"
+  }]

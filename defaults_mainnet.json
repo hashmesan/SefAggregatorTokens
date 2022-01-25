@@ -1,0 +1,10 @@
+{
+    "lists": [
+        "https://github.com/VenomProtocol/venomswap-community-token-list/blob/main/src/tokens/harmony-mainnet.json",
+        "https://github.com/TheOpenFinanceProject/openswap-v2-app/blob/master/src/store/modules/exchange_tokens/hmy_mainnet/hmyTokens.js",
+        "https://github.com/VenomProtocol/venomswap-community-token-list/blob/main/src/tokens/harmony-testnet.json"
+    ],
+    "tokens": [
+        "0xb26a8338ad971dff4cab40cad1c292553410bdcd"
+    ]
+}

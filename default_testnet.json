@@ -1,0 +1,10 @@
+{
+    "lists": [
+        "https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/harmony-testnet.json",
+        "https://raw.githubusercontent.com/VenomProtocol/venomswap-community-token-list/main/src/tokens/harmony-testnet.json",
+        "https://raw.githubusercontent.com/VenomProtocol/venomswap-default-token-list/main/src/tokens/harmony-testnet.json"
+    ],
+    "tokens": [
+        "0xb26a8338ad971dff4cab40cad1c292553410bdcd"
+    ]
+}
