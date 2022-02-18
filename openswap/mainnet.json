@@ -1,0 +1,50 @@
+[
+    {
+      "symbol": "ONE",
+      "name": "Harmony One",
+      "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+      "decimals": 18,
+      "logoURI": "https://openfi.dev/tokens/default/ONE.png"
+    },
+    {
+      "symbol": "OpenX",
+      "name": "OpenSwap",
+      "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
+      "decimals": 18,
+      "logoURI": "https://openfi.dev/tokens/default/oSWAP.png"
+    },
+    {
+      "symbol": "VIPER",
+      "name": "Viper Token",
+      "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15305/large/0c4b902b40f14db918f4500956386414ab7ebcfe.jpeg?1620371961"
+    },
+    {
+      "symbol": "hMOCHI",
+      "name": "MochiSwap Token Harmony",
+      "address": "0x0dD740Db89B9fDA3Baadf7396DdAD702b6E8D6f5",
+      "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/hMOCHI-token-logo.png"
+    },
+    {
+      "symbol": "LMA",
+      "name": "LMA - Art - Gallery",
+      "address": "0x7d0546dBb1Dca8108d99Aa389A8e9Ce0C40B2370",
+      "decimals": 18,
+      "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/LMA.png"
+    },
+    {
+      "symbol": "VINCI",
+      "name": "DaVinci Token",
+      "address": "0xb8e0497018c991e86311b64efd9d57b06aedbbae",
+      "decimals": 18,
+      "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/VINCI.png"
+    },
+    {
+      "symbol": "XYA",
+      "name": "Freyala",
+      "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+      "decimals": 18,
+      "logoURI": "https://freyala.com/images/logo.png"
+    }
+  ]

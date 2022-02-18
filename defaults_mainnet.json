@@ -1,10 +1,14 @@
 {
     "lists": [
-        "https://github.com/VenomProtocol/venomswap-community-token-list/blob/main/src/tokens/harmony-mainnet.json",
-        "https://github.com/TheOpenFinanceProject/openswap-v2-app/blob/master/src/store/modules/exchange_tokens/hmy_mainnet/hmyTokens.js",
-        "https://github.com/VenomProtocol/venomswap-community-token-list/blob/main/src/tokens/harmony-testnet.json"
+        {"name": "Sushi", "url": "https://raw.githubusercontent.com/sushiswap/default-token-list/master/tokens/harmony.json"},
+        {"name": "OpenSwap", "url": "https://raw.githubusercontent.com/hashmesan/SefAggregatorTokens/master/openswap/mainnet.json"},
+        {"name": "Venom", "url": "https://raw.githubusercontent.com/VenomProtocol/venomswap-default-token-list/main/src/tokens/harmony-mainnet.json"},
+        {"name": "Venom Community", "url": "https://raw.githubusercontent.com/VenomProtocol/venomswap-community-token-list/main/src/tokens/harmony-mainnet.json"},
+        {"name": "Lootswap", "url": "https://raw.githubusercontent.com/LootSwap/lootswap-default-token-list/main/src/tokens/harmony-mainnet.json"},
+        {"name": "FarmersOnlyFi", "url": "https://raw.githubusercontent.com/FarmersOnlyFi/default-token-list/main/src/tokens/harmony-mainnet.json"},
+        {"name": "Defi Kingdoms (community)", "url": "https://raw.githubusercontent.com/DefiKingdoms/community-token-list/main/src/tokens/harmony-mainnet.json"},
+        {"name": "Defi Kingdoms", "url": "https://raw.githubusercontent.com/DefiKingdoms/community-token-list/main/src/defikingdoms-default.tokenlist.json"}
     ],
     "tokens": [
-        "0xb26a8338ad971dff4cab40cad1c292553410bdcd"
     ]
 }
