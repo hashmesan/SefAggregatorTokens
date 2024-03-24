@@ -1,6 +1,6 @@
 {
     "lists": [
-        {"name": "TrustWallet", "url": "https://github.com/trustwallet/assets/blob/master/blockchains/base/tokenlist.json"},
+        {"name": "TrustWallet", "url": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/tokenlist.json"}
     ],
     "tokens": [
     ]
