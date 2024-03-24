@@ -1,0 +1,7 @@
+{
+    "lists": [
+        {"name": "TrustWallet", "url": "https://github.com/trustwallet/assets/blob/master/blockchains/base/tokenlist.json"},
+    ],
+    "tokens": [
+    ]
+}
